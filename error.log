@@ -1,0 +1,14 @@
+{ message:
+   'request to https://futures.mexc.com/api/v1/private/order/submit failed, reason: read ECONNRESET',
+  type: 'system',
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  level: 'error',
+  timestamp: '2022-10-19T18:30:32.523Z' }
+{ message:
+   'request to https://futures.mexc.com/api/v1/private/order/submit failed, reason: read ECONNRESET',
+  type: 'system',
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  level: 'error',
+  timestamp: '2022-10-19T18:30:32.523Z' }

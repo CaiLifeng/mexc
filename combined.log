@@ -1,0 +1,467 @@
+{ message: { success: true, code: 0, data: 1666204165883 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:25.973Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:25.976Z' }
+{ message: { success: true, code: 0, data: 337783096546941950 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:26.025Z' }
+{ message: { success: true, code: 0, data: 337783097935252500 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:26.347Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:26.348Z' }
+{ message: { success: true, code: 0, data: 337783103224269800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:27.611Z' }
+{ message: { success: true, code: 0, data: 337783112644678660 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:29.858Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:29.859Z' }
+{ message: { success: true, code: 0, data: 337783125160481800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:32.837Z' }
+{ message: { success: true, code: 0, data: 337783140591324160 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:36.533Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:36.533Z' }
+{ message: { success: true, code: 0, data: 1666204177437 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:37.529Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:37.530Z' }
+{ message: { success: true, code: 0, data: 337783145985199100 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:37.803Z' }
+{ message: { success: true, code: 0, data: 337783146983447550 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:38.044Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:38.045Z' }
+{ message: { success: true, code: 0, data: 337783152201161700 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:39.285Z' }
+{ message: { success: true, code: 0, data: 337783157611811840 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:40.576Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:40.576Z' }
+{ message: { success: true, code: 0, data: 337783162884049900 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:41.830Z' }
+{ message: { success: true, code: 0, data: 337783163966180350 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:42.086Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:42.086Z' }
+{ message: { success: true, code: 0, data: 337783169536220160 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:43.415Z' }
+{ message: { success: true, code: 0, data: 337783171478180860 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:43.885Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:43.886Z' }
+{ message: { success: true, code: 0, data: 337783182475645950 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:46.499Z' }
+{ message: { success: true, code: 0, data: 337783188590939140 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:47.962Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:47.962Z' }
+{ message: { success: true, code: 0, data: 1666204188017 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:48.137Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:48.137Z' }
+{ message: { success: true, code: 0, data: 337783198938287100 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:50.437Z' }
+{ message: { success: true, code: 0, data: 337783205527540740 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:52.007Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:52.008Z' }
+{ message: { success: true, code: 0, data: 337783210854304800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:53.266Z' }
+{ message: { success: true, code: 0, data: 337783220983551000 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:55.694Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:55.694Z' }
+{ message: { success: true, code: 0, data: 337783226444532740 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:56.983Z' }
+{ message: { success: true, code: 0, data: 337783227765740540 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:57.301Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:57.303Z' }
+{ message: { success: true, code: 0, data: 1666204198292 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:58.379Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:58.379Z' }
+{ message: { success: true, code: 0, data: 337783232975066100 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:58.540Z' }
+{ message: { success: true, code: 0, data: 337783237303587840 },
+  level: 'info',
+  timestamp: '2022-10-19T18:29:59.576Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:29:59.577Z' }
+{ message: { success: true, code: 0, data: 337783246862408700 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:01.875Z' }
+{ message: { success: true, code: 0, data: 337783262263893000 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:05.534Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:05.534Z' }
+{ message: { success: true, code: 0, data: 337783267624211460 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:06.802Z' }
+{ message: { success: true, code: 0, data: 337783268802812900 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:07.079Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:07.080Z' }
+{ message: { success: true, code: 0, data: 337783281956146200 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:10.221Z' }
+{ message: { success: true, code: 0, data: 1666204210145 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:10.245Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:10.246Z' }
+{ message: { success: true, code: 0, data: 337783287396162560 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:11.513Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:11.514Z' }
+{ message: { success: true, code: 0, data: 337783292697760800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:12.792Z' }
+{ message: { success: true, code: 0, data: 337783293817637900 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:13.079Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:13.080Z' }
+{ message: { success: true, code: 0, data: 337783304194350100 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:15.524Z' }
+{ message: { success: true, code: 0, data: 337783305263893500 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:15.775Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:15.776Z' }
+{ message: { success: true, code: 0, data: 337783310523554800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:17.033Z' }
+{ message: { success: true, code: 0, data: 337783311848950800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:17.349Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:17.350Z' }
+{ message: { success: true, code: 0, data: 337783320627629060 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:19.444Z' }
+{ message: { success: true, code: 0, data: 337783350243609600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:26.501Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:26.502Z' }
+{ message:
+   'request to https://futures.mexc.com/api/v1/private/order/submit failed, reason: read ECONNRESET',
+  type: 'system',
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  level: 'error',
+  timestamp: '2022-10-19T18:30:32.523Z' }
+{ message:
+   'request to https://futures.mexc.com/api/v1/private/order/submit failed, reason: read ECONNRESET',
+  type: 'system',
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  level: 'error',
+  timestamp: '2022-10-19T18:30:32.523Z' }
+{ message: { success: true, code: 0, data: 1666204234839 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:34.946Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:34.947Z' }
+{ message: { success: true, code: 0, data: 337783392937434100 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:36.678Z' }
+{ message: { success: true, code: 0, data: 337783394187332600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:36.977Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:36.978Z' }
+{ message: { success: true, code: 0, data: 337783413594381300 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:41.605Z' }
+{ message: { success: true, code: 0, data: 1666204245853 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:45.953Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:45.953Z' }
+{ message: { success: true, code: 0, data: 337783431827020800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:45.953Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:45.956Z' }
+{ message: { success: true, code: 0, data: 337783437254446100 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:47.263Z' }
+{ message: { success: true, code: 0, data: 337783438374329340 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:47.515Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:47.516Z' }
+{ message: { success: true, code: 0, data: 337783443843701760 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:48.814Z' }
+{ message: { success: true, code: 0, data: 337783445013912600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:49.093Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:49.093Z' }
+{ message: { success: true, code: 0, data: 337783454996354050 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:51.474Z' }
+{ message: { success: true, code: 0, data: 337783456061707260 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:51.732Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:51.732Z' }
+{ message: { success: true, code: 0, data: 337783461325560800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:52.983Z' }
+{ message: { success: true, code: 0, data: 337783462399298560 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:53.246Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:53.246Z' }
+{ message: { success: true, code: 0, data: 337783467633789950 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:54.502Z' }
+{ message: { success: true, code: 0, data: 337783469152128000 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:54.862Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:54.863Z' }
+{ message: { success: true, code: 0, data: 337783480740994050 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:57.614Z' }
+{ message: { success: true, code: 0, data: 1666204257532 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:57.625Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:57.626Z' }
+{ message: { success: true, code: 0, data: 337783481856676860 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:57.889Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:57.889Z' }
+{ message: { success: true, code: 0, data: 337783487107945500 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:59.126Z' }
+{ message: { success: true, code: 0, data: 337783488248798200 },
+  level: 'info',
+  timestamp: '2022-10-19T18:30:59.452Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:30:59.452Z' }
+{ message: { success: true, code: 0, data: 337783497346243600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:01.575Z' }
+{ message: { success: true, code: 0, data: 337783498579368960 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:01.875Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:01.875Z' }
+{ message: { success: true, code: 0, data: 337783503948078100 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:03.145Z' }
+{ message: { success: true, code: 0, data: 337783504967291900 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:03.393Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:03.393Z' }
+{ message: { success: true, code: 0, data: 337783521564150800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:07.350Z' }
+{ message: { success: true, code: 0, data: 337783522692420600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:07.612Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:07.612Z' }
+{ message: { success: true, code: 0, data: 1666204267785 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:07.875Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:07.875Z' }
+{ message: { success: true, code: 0, data: 337783528103070700 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:08.910Z' }
+{ message: { success: true, code: 0, data: 337783529201982460 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:09.173Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:09.173Z' }
+{ message: { success: true, code: 0, data: 337783539649989600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:11.681Z' }
+{ message: { success: true, code: 0, data: 337783541080251400 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:11.999Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:11.999Z' }
+{ message: { success: true, code: 0, data: 337783546461543400 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:13.279Z' }
+{ message: { success: true, code: 0, data: 337783551394042900 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:14.455Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:14.455Z' }
+{ message: { success: true, code: 0, data: 337783556678865900 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:15.752Z' }
+{ message: { success: true, code: 0, data: 337783564631264260 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:17.613Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:17.614Z' }
+{ message: { success: true, code: 0, data: 1666204278014 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:18.105Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:18.106Z' }
+{ message: { success: true, code: 0, data: 337783570041916400 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:18.902Z' }
+{ message: { success: true, code: 0, data: 337783571287624700 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:19.209Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:19.210Z' }
+{ message: { success: true, code: 0, data: 337783581202963460 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:21.564Z' }
+{ message: { success: true, code: 0, data: 337783582616439800 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:21.912Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:21.912Z' }
+{ message: { success: true, code: 0, data: 337783589046311940 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:23.437Z' }
+{ message: { success: true, code: 0, data: 337783597938232300 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:25.558Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:25.558Z' }
+{ message: { success: true, code: 0, data: 337783603273389060 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:26.827Z' }
+{ message: { success: true, code: 0, data: 337783604397460500 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:27.122Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:27.122Z' }
+{ message: { success: true, code: 0, data: 1666204289448 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:29.537Z' }
+{ message: '完成一次ping',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:29.537Z' }
+{ message: { success: true, code: 0, data: 337783614757395460 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:29.574Z' }
+{ message: { success: true, code: 0, data: 337783615919215600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:29.849Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:29.850Z' }
+{ message: { success: true, code: 0, data: 337783621141126140 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:31.090Z' }
+{ message: { success: true, code: 0, data: 337783622453943300 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:31.415Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:31.415Z' }
+{ message: { success: true, code: 0, data: 337783637113031700 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:34.900Z' }
+{ message: { success: true, code: 0, data: 337783647804314600 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:37.455Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:37.456Z' }
+{ message: { success: true, code: 0, data: 337783653160442900 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:38.727Z' }
+{ message: { success: true, code: 0, data: 337783654288710660 },
+  level: 'info',
+  timestamp: '2022-10-19T18:31:38.990Z' }
+{ message: '完成一次买卖',
+  level: 'info',
+  timestamp: '2022-10-19T18:31:38.990Z' }
