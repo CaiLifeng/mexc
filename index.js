@@ -25,7 +25,7 @@ async function buyAndSell(){
     }
 
     // 循环调用
-    await sleep(1);
+    await sleep(0.5);
     buyAndSell();
 }
 
